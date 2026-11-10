@@ -14,7 +14,9 @@ I wanted a simple Plasmoid that had a timer and Pomodoro/Flowmodoro all in one p
 
 ## Screenshots
 
-
+<img width="348" height="493" alt="Screenshot_20261109_201212" src="https://github.com/user-attachments/assets/ff49973c-552b-40d6-ac78-967be1f2f7ba" />
+<img width="348" height="493" alt="Screenshot_20261109_201223" src="https://github.com/user-attachments/assets/4fdc78a3-eb07-41ef-a287-abb87dcba2f5" />
+<img width="348" height="493" alt="Screenshot_20261109_201233" src="https://github.com/user-attachments/assets/75993bdf-1861-4629-9a68-b15ab6fd3793" />
 
 ---
 
