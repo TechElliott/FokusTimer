@@ -135,6 +135,11 @@ Open **Settings → Sounds**.
 
 ---
 
+## Do not Disturb
+Currently, it isn't working; however, full DnD will be enabled in a future update.
+
+---
+
 ## Settings reference
 
 | Page | What you can change | Defaults |
