@@ -54,13 +54,13 @@ I wanted a simple Plasmoid that had a timer and Pomodoro/Flowmodoro all in one p
 
 Download `focustimer.plasmoid`, then use either method.
 
-**Terminal**
+- Terminal
 
 ```bash
 kpackagetool6 -t Plasma/Applet -i focustimer.plasmoid
 ```
 
-**Graphical**
+- Graphical
 
 1. Right-click the desktop or a panel and choose **Add or Manage Widgets**.
 2. Choose **Get New Widgets**, then **Install Widget From Local File…**.
@@ -68,14 +68,14 @@ kpackagetool6 -t Plasma/Applet -i focustimer.plasmoid
 
 Then search for **Focus Timer** in Add Widgets and drag it onto a panel or the desktop.
 
-**Updating**
+- Updating
 
 ```bash
 kpackagetool6 -t Plasma/Applet -u focustimer.plasmoid
 kquitapp6 plasmashell; kstart plasmashell
 ```
 
-**Uninstalling**
+- Uninstalling
 
 ```bash
 kpackagetool6 -t Plasma/Applet -r org.kde.plasma.focustimer
