@@ -60,6 +60,10 @@ kpackagetool6 -t Plasma/Applet -i focustimer.plasmoid
 
 Then search for **Focus Timer** in Add Widgets and drag it onto a panel or the desktop.
 
+**KDE Store**
+
+- Install at: https://store.kde.org/p/2381528
+
 **Updating**
 
 ```bash
