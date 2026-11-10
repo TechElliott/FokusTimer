@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.plasma.focustimer",
+        "Name": "FokusTimer",
+        "Description": "Timer with presets, Pomodoro and Flowmodoro",
+        "Icon": "chronometer",
+        "Category": "Utilities",
+        "License": "GPL-3.0+",
+        "Version": "1.0",
+        "EnabledByDefault": true,
+        "Authors": [
+            {
+                "Name": "Robert"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

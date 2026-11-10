@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="presets" type="String"><default>5,10,15,25,45,60</default></entry>
+    <entry name="focusMinutes" type="Int"><default>25</default></entry>
+    <entry name="shortBreakMinutes" type="Int"><default>5</default></entry>
+    <entry name="longBreakMinutes" type="Int"><default>15</default></entry>
+    <entry name="cyclesBeforeLong" type="Int"><default>4</default></entry>
+    <entry name="flowRatio" type="Int"><default>5</default></entry>
+    <entry name="flowPromptMinutes" type="Int"><default>10</default></entry>
+    <entry name="soundEnabled" type="Bool"><default>true</default></entry>
+    <entry name="focusEndSound" type="String"><default>/usr/share/sounds/ocean/stereo/dialog-question.oga</default></entry>
+    <entry name="breakEndSound" type="String"><default>/usr/share/sounds/ocean/stereo/dialog-question.oga</default></entry>
+    <entry name="soundVolume" type="Int"><default>70</default></entry>
+    <entry name="startSoundEnabled" type="Bool"><default>false</default></entry>
+    <entry name="startSound" type="String"><default>/usr/share/sounds/freedesktop/stereo/message.oga</default></entry>
+    <entry name="tickEnabled" type="Bool"><default>false</default></entry>
+    <entry name="tickVolume" type="Int"><default>30</default></entry>
+    <entry name="autoStartNext" type="Bool"><default>false</default></entry>
+    <entry name="panelDisplay" type="String"><default>both</default></entry>
+    <entry name="lastMode" type="String"><default>timer</default></entry>
+  </group>
+</kcfg>
